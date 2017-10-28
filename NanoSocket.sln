@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{73075EC9-97CE-4BEB-9FEE-80944400F334}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Std.NanoMsg", "Std.NanoMsg\Std.NanoMsg.csproj", "{E9D9853A-E5E3-444F-BD21-33D447F781FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Debug|x64.Build.0 = Debug|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Debug|x86.Build.0 = Debug|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Release|x64.ActiveCfg = Release|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Release|x64.Build.0 = Release|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Release|x86.ActiveCfg = Release|Any CPU
+		{E9D9853A-E5E3-444F-BD21-33D447F781FA}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F938FE1-7052-4A43-BA59-72C748BCD34F}
+	EndGlobalSection
+EndGlobal
