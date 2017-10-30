@@ -95,6 +95,7 @@ namespace Std.NanoMsg.Internal
 
             var len = 0;
             var ptr = error;
+            //limit the length to 100 for safety
             while (*ptr++ != 0x00 && len++ < 100)
             { }
 
